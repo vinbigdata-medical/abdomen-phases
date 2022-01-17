@@ -1,6 +1,6 @@
 # Phase Recognition in Contrast-Enhanced CT Scans basedon Deep Learning and Random Sampling
 
-This repository contains the training code for our paper entitled "Phase Recognition in Contrast-Enhanced CT Scans basedon Deep Learning and Random Sampling", which was submitted and under review by [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209).
+This repository contains the training code for our paper entitled "Phase Recognition in Contrast-Enhanced CT Scans basedon Deep Learning and Random Sampling", which was submitted and under review by [Medical Physics](https://www.medphys.org/).
 
 
 ## Abstract 
